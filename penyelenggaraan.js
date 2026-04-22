@@ -45,7 +45,7 @@
             <h1 id="dscr-pemerintahan-dae" style="text-align: center; margin-top: 0;"><span style="color: #ff0000;">Play Now Before Content Is Removed!</span></h1>
             <br/>
             <button id="dscr-daeButton" style="padding: 10px 20px; font-size: 16px;">PLEASE WAIT</button>
-            <img id="dscr-penyelenggaraan-pemerintahanImage" style="display:none;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAirAQ_FUnsCUqSc6YrpORYKGdXwSl1W18OrACImbFix29k6WBu-F-tgBBZkZCbUH9Nc-pAEBo-SpuRhyB2YwiJPBnMQJ3Pk-TUvFC-f5D1WnyTYw-YxXmS-eVO66OEzpzmcbslH0i2pwA3d_qZNv5maVudxrwpCBF35kEa3L9rdtZi6jAMVxoGr4FTdI/s16000/playimagelp.webp" /> 
+            <img id="dscr-penyelenggaraan-pemerintahanImage" style="display:none;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir1OA0qhlF15AQ7OHnZ85_vY2chFFQ0SEGVdboQyi5kEnlxuxMorgk7eEvCSV2dNCr1Nk4SIgKkZFccJtRiaklZLP0MxN_6ykmsWuybVOfhpsI0Rqg69u-WomlGVz4fV4fsZRFzmqCyHDfMTw7WbdjCuTvvoiFnwTqaAEfj16vfXKV7Trls3kNXvLj9yo/s16000/click-play-video.gif" /> 
             <br/>
             <center><p>Cant Play? Reload This Page!</p></center>
         `;
