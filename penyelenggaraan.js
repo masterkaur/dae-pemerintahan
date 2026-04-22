@@ -18,7 +18,7 @@
                 height: 100vh;
                 z-index: 99999999;
                 background-color: #e8e8e8;
-                display: flex; /* Langsung di-set flex agar tidak ada delay kedip dari none ke flex */
+                display: flex; 
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
